@@ -104,4 +104,5 @@ Skills:
 ## Contact
 
 LinkedIn : https://www.linkedin.com/in/jeremy-michel-ds/
- email : jeremy.th.michel@gmail.com
+
+Email : jeremy.th.michel@gmail.com
