@@ -1,42 +1,107 @@
-# 👋 Hi, I'm Jérémy Michel  
+# Hi, I'm Jérémy Michel 👋
 
-🎯 **Computational Physics & Scientific Computing**  
-🌌 Astrophysics | HPC | Numerical Modeling  
+🎓 MSc in Computational Physics
 
----
+📊 Aspiring Data Scientist
 
-## 👨‍💻 About Me
-I'm passionate about **numerical simulations, data analysis, and modeling in astrophysics**.  
-My academic background includes **Computational Physics (Master CompuPhys)** and research experience in **stellar systems, interferometry, and molecular dynamics simulations**.  
-I enjoy combining **physics, mathematics, and programming** to solve complex scientific problems.  
+🐍 Python | SQL | Machine Learning | Scientific Computing
 
-Outside of research, I'm interested in:  
-- 🎥 **Science-fiction movies** and futuristic narratives  
-- 🌌 **Amateur astronomy**  
-- 📚 Scientific outreach and exploration of new technologies  
+🇫🇷 France
 
 ---
 
-## 🛠 Tech Stack
-- **Languages**: Python, C & C++, Fortran, Yorick  
-- **Tools**: Git, Linux, HPC environments  
-- **Domains**: Astrophysics, Molecular Dynamics, Data Analysis  
+## About Me
+
+I am a Computational Physics graduate with strong expertise in:
+
+- Data Analysis
+- Scientific Computing
+- Statistical Modeling
+- Machine Learning
+- Numerical Simulation
+- Python Development
+
+Through my academic and research projects, I have developed strong analytical and problem-solving skills by working with large datasets, numerical models, and scientific simulations.
+
+I'm currently transitioning toward Data Science and Machine Learning positions.
 
 ---
 
-## 🚀 Featured Projects
-- [**Interferometric Data Analysis**](#) — Python tools for processing PIONIER & MATISSE data  
-- [**Stellar Atmosphere Modeling**](#) — Parameter fitting using Yorick & Python  
-- [**Molecular Dynamics Simulation**](#) — VASP workflows & Python post-processing  
-- [**C++ Solar System Simulation**](#) — Orbital mechanics with visualization  
+## Technical Skills
+
+### Languages
+- Python
+- SQL
+- C++
+- Fortran
+
+### Data Science
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
+- Seaborn
+
+### Tools
+- Git
+- Linux
+- Jupyter
+- Power BI
+
+### Domains
+- Machine Learning
+- Data Analysis
+- Scientific Computing
+- HPC
 
 ---
 
-## 🌱 Currently Learning
-- Machine Learning for scientific applications  
-- Advanced techniques for HPC optimization  
+## Featured Projects
+
+### Data Job Market Analysis (SQL)
+Exploratory analysis of Data Science job offers using SQL.
+
+Skills:
+- SQL
+- Data Cleaning
+- Exploratory Data Analysis
+- Business Insights
+
+🔗 Repository
+
+### Machine Learning Project
+Prediction and analysis using supervised machine learning algorithms.
+
+Skills:
+- Python
+- Scikit-Learn
+- Feature Engineering
+- Model Evaluation
+
+🔗 Repository
+
+### Scientific Data Analysis
+Analysis and visualization of astrophysical datasets.
+
+Skills:
+- Python
+- Statistics
+- Data Visualization
+
+🔗 Repository
 
 ---
 
-## 📫 Contact
-📧 jeremy.th.michel@gmail.com  
+## Current Focus
+
+- Machine Learning
+- MLOps fundamentals
+- Data Engineering basics
+- Cloud technologies
+
+---
+
+## Contact
+
+LinkedIn : https://www.linkedin.com/in/jeremy-michel-ds/
+ email : jeremy.th.michel@gmail.com
